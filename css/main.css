@@ -55,10 +55,15 @@ img {
 #bigCenteredLogo {
   display: block;
   margin: 0 auto;
-  padding: 10em 10em 1em 10em;
+  padding: 10em 10em 0em 10em;
   max-width: 15em; }
 
 .coming {
-  max-width: 10em;
-  margin: 10em auto;
+  max-width: 15em;
+  margin: 5em auto;
+}
+
+.contact {
+  max-width: 20em;
+  margin: 1em auto;
 }
