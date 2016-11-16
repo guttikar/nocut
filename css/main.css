@@ -60,10 +60,10 @@ img {
 
 .coming {
   max-width: 15em;
-  margin: 5em auto;
+  margin: 5em auto 1em auto;
 }
 
 .contact {
-  max-width: 20em;
+  max-width: 10em;
   margin: 1em auto;
 }
